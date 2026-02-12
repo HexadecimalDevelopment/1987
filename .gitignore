@@ -1,0 +1,20 @@
+# Copyright Compliance
+rick.webm
+icons/exe.icon
+icons/image.ico
+
+# Build script
+*.exe
+vlc/
+dist/
+build/
+*.spec
+binaries/
+yt-dlp/
+
+# Personal
+custom_build.bat
+
+# Python
+__pycache__/
+venv/
