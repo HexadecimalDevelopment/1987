@@ -44,3 +44,5 @@ move dist\main.exe .\binaries
 rmdir /Q dist
 
 del .\binaries\text.exe
+
+echo Finished build!

@@ -43,3 +43,5 @@ mv dist/main ./binaries
 rm -r dist
 
 rm ./binaries/text
+
+echo 'Finished build!'
