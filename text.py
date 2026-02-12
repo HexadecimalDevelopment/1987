@@ -11,6 +11,8 @@ try:
     input()
     cbc.out('In 2023, there were over 6 billion malware attacks globally.', terminator='')
     input()
+    cbc.out('In 2021, a business or individual fell victim to a ransomware attack roughly every 11 seconds.', terminator='')
+    input()
     cbc.out('https://www.cisa.gov/secure-our-world')
     input('Press enter to exit.')
     sys.exit()
