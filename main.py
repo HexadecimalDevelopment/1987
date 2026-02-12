@@ -49,7 +49,18 @@ try:
             file.extractall(tempfile.gettempdir())
         filename = os.path.join(tempfile.gettempdir(), file.namelist()[0], 'vlc.exe')
 
-    subprocess.run((f'{filename}', '--no-qt-privacy-ask', '--qt-minimal-view', '--fullscreen', '--no-video-title-show', '--repeat', "--meta-title=YOU'VE BEEN HACKED!", os.path.join(base, 'rick.webm')), stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
+    subprocess.run((
+                    f'{filename}',
+                    '--no-qt-privacy-ask',
+                    '--qt-minimal-view',
+                    '--fullscreen',
+                    '--no-video-title-show',
+                    '--repeat',
+                    '--meta-title=Oops, you downloaded a (fake) payload',
+                    os.path.join(base, 'rick.webm')),
+                    stdout=subprocess.DEVNULL,
+                    stderr=subprocess.DEVNULL
+                    )
 
     if not linux:
 
