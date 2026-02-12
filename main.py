@@ -58,7 +58,7 @@ try:
                     '--fullscreen',
                     '--no-video-title-show',
                     '--repeat',
-                    '--meta-title=Oops, you downloaded a (fake) payload',
+                    '--meta-title=Oops, you downloaded a (fake) payload!',
                     os.path.join(base, 'rick.webm')),
                     stdout=subprocess.DEVNULL,
                     stderr=subprocess.DEVNULL
