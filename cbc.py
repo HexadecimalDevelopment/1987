@@ -1,3 +1,5 @@
+# cbc.py
+
 import time
 
 def out(input: str, delay: float=0.1, terminator: str='\n'):
