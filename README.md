@@ -10,6 +10,7 @@
 ### Windows
 
 1. Make sure [Python](https://python.org/) is installed.
+   
    **Important:** If you are installing Python for the first time, be sure to check the "Add to PATH" checkbox.
 
 2. Download and extract the repository, and then open a terminal in it.
