@@ -1,6 +1,6 @@
 # 1987
 
-1987 is a program designed to educate people about the dangers of downloading random files from the internet. When executed, it plays the official music video of "Never Gonna Give You Up" by Rick Astley, opens a terminal window with messages about the dangers of malware, and opens to [CISA's Secure Our World.](https://cisa.gov/secure-our-world/) It is named after the year the aforementioned music video was released.
+1987 is a program designed to educate people about the dangers of downloading random files from the internet. When executed, it plays the official music video of "Never Gonna Give You Up" by Rick Astley, opens a terminal window with messages about the dangers of malware, and opens a web browser to [CISA's Secure Our World.](https://cisa.gov/secure-our-world/) It is named after the year the aforementioned music video was released.
 
 
 *Disclaimer: This program and/or its authors are not affiliated with CISA in any way.*
