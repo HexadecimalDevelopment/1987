@@ -31,7 +31,7 @@ IF NOT EXIST "binaries" (
 
 echo Building executables...
 
-pyinstaller --noconfirm --onefile --console --icon=icons\icon.ico text.py
+pyinstaller --noconfirm --onefile --console text.py
 rmdir /S /Q build
 del text.spec
 move dist\text.exe .\binaries
