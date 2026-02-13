@@ -18,3 +18,4 @@ custom_build.bat
 # Python
 __pycache__/
 venv/
+win_venv/
