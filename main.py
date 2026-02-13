@@ -3,7 +3,7 @@
 # 1987
 # https://github.com/HexadecimalDevelopment/1987/\n\nCopyright 
 # (C) 2026 Hunt Burke (Hexadecimal Development)
-# Licensed under the AGPL 3.0 (https://raw.githubusercontent.com/HexadecimalDevelopment/1987/refs/heads/main/LICENSE)
+# Licensed under the GPL 3.0 (https://raw.githubusercontent.com/HexadecimalDevelopment/1987/refs/heads/main/LICENSE)
 # This program and/or its authors are NOT affilliated with CISA in any way.
 
 try:

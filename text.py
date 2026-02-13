@@ -27,7 +27,7 @@ try:
     elif sys.platform == 'linux':
         os.system('clear')
 
-    cbc.out('1987\n\nhttps://github.com/HexadecimalDevelopment/1987/\n\nCopyright (C) 2026 Hunt Burke (Hexadecimal Development)\n\nLicensed under the AGPL 3.0 (https://raw.githubusercontent.com/HexadecimalDevelopment/1987/refs/heads/main/LICENSE)\n\nThis program and/or its authors are NOT affilliated with CISA in any way.', 0.005)
+    cbc.out('1987\n\nhttps://github.com/HexadecimalDevelopment/1987/\n\nCopyright (C) 2026 Hunt Burke (Hexadecimal Development)\n\nLicensed under the GPL 3.0 (https://raw.githubusercontent.com/HexadecimalDevelopment/1987/refs/heads/main/LICENSE)\n\nThis program and/or its authors are NOT affilliated with CISA in any way.', 0.005)
 
     sys.exit()
 
