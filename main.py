@@ -3,8 +3,8 @@
 # 1987
 # https://github.com/HexadecimalDevelopment/1987/\n\nCopyright 
 # (C) 2026 Hunt Burke (Hexadecimal Development)
-# Lisenced under the AGPL 3.0 (https://raw.githubusercontent.com/HexadecimalDevelopment/1987/refs/heads/main/LICENSE)
-# This program and/or its authors are NOT afilliated with CISA.
+# Licensed under the AGPL 3.0 (https://raw.githubusercontent.com/HexadecimalDevelopment/1987/refs/heads/main/LICENSE)
+# This program and/or its authors are NOT affilliated with CISA in any way.
 
 try:
 
