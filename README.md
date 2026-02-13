@@ -13,7 +13,7 @@
 
 2. Download and extract the repository, and then open a terminal in it.
 
-    **Optional but recommended:** Create and activate a clean virtual enviroment
+    **Optional but recommended:** Create and activate a clean virtual enviroment.
 
     ```
     python -m venv venv
@@ -35,5 +35,34 @@
     ```
     **Note:** You may want to update the icon in the build script.
 
-You now should have main.exe under binaries.
+You now should have `main.exe` under `binaries`.
+
+
+### Linux
+
+1. Download and extract the repository, and then open a terminal in it.
+
+    **Optional but recommended:** Create and activate a clean virtual enviroment.
+
+    ```
+    python3 -m venv venv
+    source venv/bin/activate
+    ```
+
+    This is so when you build it, it does not bundle a bunch of uneeded libraries and bloat the file.
+
+2. Install pyinstaller.
+
+    ```
+    pip3 install pyinstaller
+    ```
+
+3. Build the script.
+
+    ```
+    chmod +x build.sh
+    ./build.sh
+    ```
+
+You now should have `main` under `binaries`.
 
