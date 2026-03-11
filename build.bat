@@ -11,7 +11,7 @@ IF NOT EXIST "yt-dlp\yt-dlp.exe" (
 
 IF NOT EXIST "rick.webm" (
     echo Downloading video...
-    yt-dlp.exe "https://www.youtube.com/watch?v=dQw4w9WgXcQ" -o "rick.webm"
+    yt-dlp\yt-dlp.exe "https://www.youtube.com/watch?v=dQw4w9WgXcQ" -o "rick.webm"
 )
 
 IF NOT EXIST "vlc" (
